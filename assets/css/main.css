@@ -2018,11 +2018,14 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			margin-top: 40px;
+			
 		}
 
 			ul.icons li {
 				display: inline-block;
 				padding: 0 1em 0 0;
+
 			}
 
 				ul.icons li:last-child {
@@ -2249,7 +2252,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		margin-top: 60px;
+		margin-top: 50px;
 		overflow: hidden;
 		text-overflow: ellipsis;
 	}
@@ -3705,9 +3708,8 @@
 		background-color: #1d242a;
 		text-align: center;
 	}
-
-		#footer .icons {
-			font-size: 1.25em;
+		.icons {
+			font-size: 1.8em;
 		}
 
 			#footer .icons a {
