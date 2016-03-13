@@ -1945,6 +1945,7 @@
 		.image img {
 			border-radius: 3px;
 			display: block;
+
 		}
 
 		.image.left {
@@ -2799,11 +2800,11 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #B23000;
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #3D7A99;
 			color: #d3d4e4;
 		}
 
